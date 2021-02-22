@@ -1,0 +1,90 @@
+body{
+    background-image: url(img/hatter.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hatter{
+    width: 1500px;
+    height: 800px;
+    margin-left: 200px;
+    background-color: rgba(182, 21, 21, 0.664);
+    
+}
+.rolam{
+    width: 300px;
+    height: 796px;
+    margin-left: -14px;
+    margin-top: -820px;
+    background-color: rgba(255, 255, 255, 0.596);
+    padding: 10px;
+}
+.about{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 5px;
+}
+.nevem{
+    text-align: center;
+    font-size: 22px;
+    margin-top: -20px;
+}
+.kepem{
+    width: 250px;
+    margin-left: 25px;
+    border: 2px solid black;
+}
+.datum{
+    font-size: 22px;
+    margin-left: 5px;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+}
+a:hover{
+    color: red;
+    text-decoration-line: underline;
+}
+.elerhetosegeim{
+    margin-left: 5px;
+}
+ul{
+    margin-left: 10px;
+}
+li{
+    font-weight: bold;
+}
+.jobb{
+    margin-left: 307px;
+    margin-top: -7px;
+    width: 1200px;
+    height: 800px;
+    margin-right: -13px;
+    
+}
+.táblázat{
+    
+    width: 100%;
+    height: 500px;
+    margin-top: 40px;
+}
+table{
+    border-spacing: 15px;
+    text-align: justify;
+}
+.hobbijaim{
+    margin-top: 50px;
+}
+th{
+    text-align:center ;
+    font-size: 30px;
+    text-decoration-line: underline;
+}
+td{
+    font-size: 20px;
+}
+.vegszo{
+    margin-left: 20px;
+    text-align: justify;
+}
